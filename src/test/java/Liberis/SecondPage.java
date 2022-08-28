@@ -38,6 +38,8 @@ WebDriver driver;
 	
 	}
 	
+	//Verify user has landed on Partner Selection page and it has the required 3 Types of Partners
+	
 	@Test
 	public void m1() {
 		

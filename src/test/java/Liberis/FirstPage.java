@@ -30,7 +30,7 @@ public class FirstPage {
 		
 		WebElement Getdemo=driver.findElement(By.xpath("//a[@class='btn']"));
 		Getdemo.click();
-		 	
+		
 	}
 	
 	@AfterMethod
